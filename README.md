@@ -1,4 +1,4 @@
-# MQTT_Temp_Umidade
+# Estastistica
 Dispositivo medir temperatura e umidade e enviar dados via MQTT
 1) Ler o documento para entender como foi construido o projeto.
 2) Seguir passo a passo do documento
